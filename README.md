@@ -8,14 +8,14 @@ I'm a passionate software developer who loves coding and learning new technologi
 - 👯 I’m looking to collaborate on **HealthTech**
 - 💬 Ask me about **Python,C++,Javascript**
 - 📫 How to reach me: **support@nippon-medical.com**
-- ⚡ Fun fact: I love [everything]
+- ⚡ Fun fact: I love [life]
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Python, C++, Go
+- **Languages:** JavaScript, Python, C++
 - **Frontend:** React, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL
+- **Backend:** Node.js, Express.js, Django
+- **Databases:** PostgreSQL, MySQL
 - **DevOps:** Docker, Kubernetes, Jenkins
 - **Tools:** VS Code, Git, GitHub
 
@@ -25,15 +25,14 @@ I'm a passionate software developer who loves coding and learning new technologi
 
 ## 🌟 Top Repositories
 
-- [Repository 1](https://github.com/your-username/repository1) - Description of repository 1.
-- [Repository 2](https://github.com/your-username/repository2) - Description of repository 2.
-- [Repository 3](https://github.com/your-username/repository3) - Description of repository 3.
+- [Repository 1](https://github.com/Nipyo/HMIS_V1.0) - A Healthcare Technology Application aiming to disrupt the global healthcare market and promote longevity
+- [Repository 2](https://github.com/Nipyo/Ktm_orient) - A Edtech Application aiming for providing training, consulting and orientation to the youths  
 
 ## 📣 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-username)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/nipponsher/)
+- [Instagram](https://www.instagram.com/nipyo/)
+- [Email](support@nippon-medical.com)
 
 ## 📈 GitHub Activity
 
